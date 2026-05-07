@@ -39,4 +39,4 @@ An end-to-end sales analytics project focused on analyzing customer behavior, pr
 
 ## Dashboard Preview
 
-![Dashboard](visuals/dashboard.png)
+![Dashboard]
