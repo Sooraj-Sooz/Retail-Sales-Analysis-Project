@@ -111,6 +111,6 @@ The goal of this project was to perform end-to-end sales analysis by cleaning an
 # 👨‍💻 Author
 Sooraj Suresh
 
-**Sooraj**
+
 
 Aspiring Data Analyst skilled in SQL, Python, Power BI, Excel, and Tableau.
